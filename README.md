@@ -4,4 +4,4 @@ This is a PRJ4 project for the Creative Business programme in Breda University o
 
 *****************************************************************************************************************************
 
-Currently, the project only makes use of HTML.  
+Currently, the project only makes use of HTML and CSS.  
