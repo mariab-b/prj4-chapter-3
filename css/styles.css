@@ -29,8 +29,9 @@ body {
 
 }
 .content-container p {
-    text-shadow: 1px 0.5px hsl(273, 60%, 81%);
+    text-shadow: 1px 0.5px hsl(272, 62%, 88%);
     padding: 10px;
+    text-emphasis-color: hsl(272, 28%, 44%) ;
     margin: 20px;
     font-size: 18px;
 }
