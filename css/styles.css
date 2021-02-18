@@ -1,12 +1,13 @@
 @charset "UTF-8";
 * { margin: 0; padding: 0; border: 0; font-size: 100%; }
 body {
-    height: 100vh;
-    background: linear-gradient(50deg, #FFCCCC, #CCFFFF);
+    height: 210vh;
+    background: linear-gradient(100deg, #FFCCCC, #CCFFFF);
+
 }
 #title {
     text-align: center;
-    font-size: 50px;
+    font-size: 70px;
     padding: 25px 25px 10px 25px;
     margin: 10px 10px 3px 10px;
     font-family: 'Amatic SC', cursive;
@@ -22,15 +23,16 @@ body {
 .content-container {
     border: 4px solid #aeb9db;
     padding: 30px 60px 30px 60px;
-    background-image: url("../images/background2.jpg");
+    background-image: url("../images/background3.jpg");
     width: 900px;
     margin: 0 auto;
 
 }
 .content-container p {
-    text-shadow: 1px 1px hsl(273, 60%, 81%);
+    text-shadow: 1px 0.5px hsl(273, 60%, 81%);
     padding: 10px;
     margin: 20px;
+    font-size: 18px;
 }
 
 img{
