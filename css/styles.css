@@ -3,14 +3,13 @@
 body {
     height: 100vh;
     background: linear-gradient(50deg, #FFCCCC, #CCFFFF);
-    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 #title {
     text-align: center;
     font-size: 50px;
-    font-family: Garamond, serif;
     padding: 25px 25px 10px 25px;
     margin: 10px 10px 3px 10px;
+    font-family: 'Amatic SC', cursive;
 }
 .subtitle {
     text-align: center;
@@ -26,6 +25,7 @@ body {
     background-image: url("../images/background2.jpg");
     width: 900px;
     margin: 0 auto;
+
 }
 .content-container p {
     text-shadow: 1px 1px hsl(273, 60%, 81%);
