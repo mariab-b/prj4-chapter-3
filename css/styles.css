@@ -1,4 +1,5 @@
 @charset "UTF-8";
+* { margin: 0; padding: 0; border: 0; font-size: 100%; }
 body {
     height: 100vh;
     background: linear-gradient(50deg, #FFCCCC, #CCFFFF);
@@ -8,16 +9,22 @@ body {
     text-align: center;
     font-size: 50px;
     font-family: Garamond, serif;
+    padding: 25px 25px 10px 25px;
+    margin: 10px 10px 3px 10px;
 }
 .subtitle {
     text-align: center;
     color: #aeb9db;
     font-family: Garamond, serif;
+    padding: 5px;
+    margin: 3px 10px 3px 10px;
+    font-size: 20px;
 }
 .content-container {
     border: 4px solid #aeb9db;
-    padding: 20px 60px 20px 60px;
-    margin: 20px 90px 20px 90px;
+    padding: 30px 60px 30px 60px;
+    margin: 20px 250px 20px 250px;
+    background-image: url("../images/background2.jpg");
 }
 .content-container p {
     text-shadow: 1px 1px hsl(273, 60%, 81%);
@@ -31,3 +38,4 @@ img {
     margin-top: -110.5px; 
     margin-left: -142.5px; 
 }
+
